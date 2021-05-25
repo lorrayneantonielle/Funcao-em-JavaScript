@@ -1,0 +1,24 @@
+@charset "UTF-8"
+
+@font-face {
+    font-family: 'FonteLogo';
+    src: url();
+}
+
+body {
+    background-color: #8B8C89;
+}
+div#soma {
+    text-align: center;
+    color:azure
+}
+div#soma h1 {
+    background-color: #6096BA;
+    color:azure;
+}
+div#soma h2 {
+    background-color: #274C77;
+}
+div#soma p {
+    font-size: 20px;
+}
